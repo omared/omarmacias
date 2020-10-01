@@ -1,0 +1,17 @@
+<svg id="circuloFrontend" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197" height="197" viewBox="0 0 197 197">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#464646"/>
+      <stop offset="0.844" stop-color="#272727"/>
+      <stop offset="1" stop-color="#0e0e0e"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_806" data-name="Grupo 806" transform="translate(-975 -727)">
+    <g id="Elipse_23" data-name="Elipse 23" transform="translate(975 727)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+      <circle cx="98.5" cy="98.5" r="98.5" stroke="none"/>
+      <circle cx="98.5" cy="98.5" r="98" fill="none"/>
+    </g>
+    <text id="front" transform="translate(994 829)" fill="#fff" font-size="70" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.005em"><tspan x="0" y="0">front</tspan></text>
+    <text id="end" transform="translate(1005 878)" fill="#fff" font-size="70" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.005em"><tspan x="0" y="0">end</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="circuloUX" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197" height="197" viewBox="0 0 197 197">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.971" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5e26b9"/>
+      <stop offset="1" stop-color="#2f135d"/>
+    </radialGradient>
+  </defs>
+  <g id="Elipse_21" data-name="Elipse 21" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+    <circle cx="98.5" cy="98.5" r="98.5" stroke="none"/>
+    <circle cx="98.5" cy="98.5" r="98" fill="none"/>
+  </g>
+  <text id="UX" transform="translate(30 138)" fill="#fff" font-size="100" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.005em"><tspan x="0" y="0">UX</tspan></text>
+</svg>
